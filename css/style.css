@@ -185,7 +185,7 @@ nav .main-menu {
 	background: #f8f7f4;
 	border-radius: 5px;
 	width: 140px;
-	box-shadow: 0px 20px 20px rgba(0,0,0,0.4); /* Параметры тени */ 
+	box-shadow: 0px 20px 20px rgba(0,0,0,0.4); /* Параметры тени можно поменять*/ 
 }
 .menu li {
 	margin: 0;
