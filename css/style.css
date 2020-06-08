@@ -1615,4 +1615,18 @@ form.data {
 	background: #a9bbb1;
 }
 
+.bond {
+	display: block;
+	border-radius: 50%;
+	border: 5px solid green;
+	margin: 5px;
+}
+.kuh {
+	display: block;
+	border-radius: 50%;
+	border: 5px solid green;
+		margin: 5px;
+
+}
+
 
